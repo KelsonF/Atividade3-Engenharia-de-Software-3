@@ -2,7 +2,7 @@ package Atividade_3.Questao_3;
 
 import java.util.List;
 
-import Atividade_3.Questao4.ValidarImpostoDeRenda;
+import Atividade_3.Questao_4.ValidarImpostoDeRenda;
 
 public class ImpostoDeRenda {
    private String cpfContribuinte;
